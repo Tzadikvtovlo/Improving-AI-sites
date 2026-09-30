@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         כלי עזר משולבים וסרגל צד ל-Claude.ai
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @version      1.0.1
 // @description  משלב עיצוב בועות, RTL, העתקה, שמירה לקובץ, וסרגל צד Timeline דינמי מרובה עמודות, עם התאמה אישית, אופטימיזציות, ותמיכה במצב כהה - ל-Claude.ai
 // @author       Y-PLONI
 // @match        *://claude.ai/*
