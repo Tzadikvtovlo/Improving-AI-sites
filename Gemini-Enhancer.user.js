@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Gemini – משופר
 // @namespace    https://example.com/
-// @version      1.0.2
+// @version      1.0.3
 // @description  סרגל ניווט לשיחה, RTL משופר, בועות שיחה, ייצוא שיחה והתראות על תשובות חדשות ב-Gemini.
 // @author       Y-PLONI
 // @match        https://gemini.google.com/*
