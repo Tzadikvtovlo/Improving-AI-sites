@@ -13,6 +13,8 @@
 // @run-at       document-idle
 // @downloadURL  https://github.com/Y-PLONI/Improving-AI-sites/raw/main/Gemini-Enhancer.user.js
 // @updateURL    https://github.com/Y-PLONI/Improving-AI-sites/raw/main/Gemini-Enhancer.user.js
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=gemini.google.com
+
 // ==/UserScript==
 
 (() => {
