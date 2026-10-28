@@ -5,7 +5,7 @@
 // @description  סרגל ניווט לשיחה, RTL משופר, בועות שיחה, ייצוא שיחה והתראות על תשובות חדשות ב-Gemini.
 // @author       Y-PLONI
 // @match        https://gemini.google.com/*
-// @icon         https://www.google.com/s2/favicons?sz=128&domain=gemini.google.com
+// @icon         https://www.google.com/s2/favicons?sz=256&domain=gemini.google.com
 // @grant        GM_addStyle
 // @grant        GM_getValue
 // @grant        GM_setValue
