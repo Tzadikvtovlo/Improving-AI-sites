@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         AI Studio – משופר
 // @namespace    https://example.com/
-// @version      1.9.3
+// @version      1.9.4
 // @description  פותח היסטוריה אוטומטית, סרגל-צד משופר, תיקוני RTL, בועות צבע, הפעלה אוטומטית של כלים ב”שיחה חדשה”, שמירה לקובץ, שמירה אוטומטית של השיחה והתראות קוליות וחזותיות על הודעות AI חדשות.
 // @author       Y-PLONI
 // @match        https://aistudio.google.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=aistudio.google.com
+// @icon         https://www.google.com/s2/favicons?sz=256&domain=aistudio.google.com
 // @grant        GM_addStyle
 // @grant        GM_getValue
 // @grant        GM_setValue
