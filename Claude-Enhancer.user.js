@@ -5,7 +5,7 @@
 // @description  משלב עיצוב בועות, RTL, העתקה, שמירה לקובץ, וסרגל צד Timeline דינמי מרובה עמודות, עם התאמה אישית, אופטימיזציות, ותמיכה במצב כהה - ל-Claude.ai
 // @author       Y-PLONI
 // @match        *://claude.ai/*
-// @icon         https://www.google.com/s2/favicons?sz=128&domain=claude.ai
+// @icon         https://www.google.com/s2/favicons?sz=256&domain=claude.ai
 // @grant        GM_addStyle
 // @grant        GM_setValue
 // @grant        GM_getValue
