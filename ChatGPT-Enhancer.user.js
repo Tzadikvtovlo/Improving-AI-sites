@@ -6,7 +6,7 @@
 // @author       Y-PLONI
 // @match        *://chatgpt.com/*
 // @match        *://chat.openai.com/*
-// @icon         https://www.google.com/s2/favicons?sz=128&domain=chatgpt.com
+// @icon         https://www.google.com/s2/favicons?sz=256&domain=chatgpt.com
 // @grant        GM_addStyle
 // @grant        GM_setValue
 // @grant        GM_getValue
